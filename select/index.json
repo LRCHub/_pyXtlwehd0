@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アヤカシ",
+  "base_artist": "buzzG",
+  "createdAt": "2025-12-11T08:36:50.714525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アヤカシ・トランセンダー",
+      "artist": "てにをは",
+      "has_synced": false,
+      "path": "select/01_アヤカシ・トランセンダー_てにをは.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ayakashi - アヤカシ",
+      "artist": "buzzG feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/02_Ayakashi_-_アヤカシ_buzzG_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アヤカシ",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/pl_01_アヤカシ_buzzG.txt"
+    }
+  ]
+}
